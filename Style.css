@@ -2,3 +2,10 @@
     max-width: 75%;
     height: auto;
 }
+.body{
+    background-color: aqua;
+}
+.footer{
+    background-color: yellow;
+    height: 100px;
+}
